@@ -3,8 +3,7 @@
 # Installation
 Ensure you have node 12 and above installed on your laptop. To install node go to https://nodejs.org/en/download/ . select your operating system and download.
 ## Instructions
-To Clone the repository from GitHub run:
-next step is to change to the directory run `cd <directory-name>` to move into the folder. while in the folder you run `npm install` to install the project into that folder on your local machine.
+To Clone the repository from GitHub run: `https://github.com/Ajadi-Abiola/kiba-challenge.git` next step is to change to the directory run `cd <directory-name>` to move into the folder. while in the folder you run `npm install` to install the project into that folder on your local machine.
 Next is to run `npm run build` this is to create a build directory for production. 
 
 ## Serve
